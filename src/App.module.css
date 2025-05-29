@@ -1,0 +1,23 @@
+.container {
+    background-color: cornsilk;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    font-size: 32px;
+}
+
+button {
+    padding: 12px 32px;
+    border: none;
+    background-color: burlywood;
+    border-radius: 12px;
+    font-size: 18px;
+}
